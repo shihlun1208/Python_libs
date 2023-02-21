@@ -1,0 +1,5 @@
+Protocol,Modulation,Channel,wlan,tx,phyId,txfreq,txrate,rateBW,nss,mode,txchain,txpwr,txpktsz,SA_CentFreq,SA_FreqSpan,ATT,Antenna_Gain,Side
+11ax,OFDMA,155,1,99,0,5775,20,10,1,bw80_0,1,50,1500,5787.5,325,30,-2,
+11ax,OFDMA,163,1,99,0,5815,20,16,1,bw160,1,50,1500,5787.5,325,30,-2,
+11ax,OFDMA,42,1,99,0,5210,20,10,1,bw80_0,1,50,1500,4825,650,30,-2,Low
+11ax,OFDMA,42,1,99,0,5210,20,10,1,bw80_0,1,50,1500,5405,110,30,-2,High

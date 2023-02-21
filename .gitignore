@@ -1,0 +1,7 @@
+__pycache__
+build
+.vscode
+dist
+*.7z
+*.spec
+*.txt
